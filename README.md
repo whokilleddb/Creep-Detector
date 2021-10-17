@@ -1,4 +1,4 @@
-<h1 align="center">Creep Detector With Better Tiling In Google Colab</h1>
+<h1 align="center">Creep Detector Using Kismet And Google Colab</h1>
 
 <h2>Description</h2>
 This project has been directly inspired from <a href="https://github.com/skickar/CreepDetector/">Skicar's Creep Detector</a> but provides some extra features like better tiling, better visual cues in the form of tooltips and popups, etc. The notebook analyzes <i>Kismet</i> output files to map out the potentiaal suspicious targets and maps  them onto a html file which is then served over a webserver.
